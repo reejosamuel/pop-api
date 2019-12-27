@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.6.5"></a>
+## [0.6.5](https://github.com/popcorn-official/pop-api/compare/v0.6.3...v0.6.5) (2019-12-27)
+
+
+
 <a name="0.6.4"></a>
 ## [0.6.4](https://github.com/popcorn-official/pop-api/compare/v0.6.3...v0.6.4) (2019-12-27)
 
