@@ -132,6 +132,30 @@ window.esdocSearchIndex = [
     "test"
   ],
   [
+    "basecontentcontroller#createcontent src/controllers/basecontentcontroller.js~basecontentcontroller#createcontent,basecontentcontroller#createcontent",
+    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber280",
+    "BaseContentController will throw errors ",
+    "test"
+  ],
+  [
+    "basecontentcontroller#getcontents src/controllers/basecontentcontroller.js~basecontentcontroller#getcontents,basecontentcontroller#getcontents",
+    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber286",
+    "BaseContentController will throw errors ",
+    "test"
+  ],
+  [
+    "basecontentcontroller#getpage src/controllers/basecontentcontroller.js~basecontentcontroller#getpage,basecontentcontroller#getpage",
+    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber295",
+    "BaseContentController will throw errors ",
+    "test"
+  ],
+  [
+    "basecontentcontroller#updatecontent src/controllers/basecontentcontroller.js~basecontentcontroller#updatecontent,basecontentcontroller#updatecontent",
+    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber304",
+    "BaseContentController will throw errors ",
+    "test"
+  ],
+  [
     "basecontentcontroller#getcontent src/controllers/basecontentcontroller.js~basecontentcontroller#getcontent,basecontentcontroller#getcontent",
     "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber313",
     "BaseContentController will throw errors ",
@@ -144,32 +168,8 @@ window.esdocSearchIndex = [
     "test"
   ],
   [
-    "basecontentcontroller#getpage src/controllers/basecontentcontroller.js~basecontentcontroller#getpage,basecontentcontroller#getpage",
-    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber295",
-    "BaseContentController will throw errors ",
-    "test"
-  ],
-  [
-    "basecontentcontroller#getcontents src/controllers/basecontentcontroller.js~basecontentcontroller#getcontents,basecontentcontroller#getcontents",
-    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber286",
-    "BaseContentController will throw errors ",
-    "test"
-  ],
-  [
-    "basecontentcontroller#createcontent src/controllers/basecontentcontroller.js~basecontentcontroller#createcontent,basecontentcontroller#createcontent",
-    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber280",
-    "BaseContentController will throw errors ",
-    "test"
-  ],
-  [
     "basecontentcontroller#deletecontent src/controllers/basecontentcontroller.js~basecontentcontroller#deletecontent,basecontentcontroller#deletecontent",
     "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber331",
-    "BaseContentController will throw errors ",
-    "test"
-  ],
-  [
-    "basecontentcontroller#updatecontent src/controllers/basecontentcontroller.js~basecontentcontroller#updatecontent,basecontentcontroller#updatecontent",
-    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber304",
     "BaseContentController will throw errors ",
     "test"
   ],
@@ -177,30 +177,6 @@ window.esdocSearchIndex = [
     "basecontentcontroller src/controllers/basecontentcontroller.js~basecontentcontroller,basecontentcontroller",
     "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber158",
     "BaseContentController with a filled database",
-    "test"
-  ],
-  [
-    "basecontentcontroller#getpage src/controllers/basecontentcontroller.js~basecontentcontroller#getpage,basecontentcontroller#getpage",
-    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber204",
-    "BaseContentController with a filled database ",
-    "test"
-  ],
-  [
-    "basecontentcontroller#getcontent src/controllers/basecontentcontroller.js~basecontentcontroller#getcontent,basecontentcontroller#getcontent",
-    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber235",
-    "BaseContentController with a filled database ",
-    "test"
-  ],
-  [
-    "basecontentcontroller#deletecontent src/controllers/basecontentcontroller.js~basecontentcontroller#deletecontent,basecontentcontroller#deletecontent",
-    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber247",
-    "BaseContentController with a filled database ",
-    "test"
-  ],
-  [
-    "basecontentcontroller#getrandomcontent src/controllers/basecontentcontroller.js~basecontentcontroller#getrandomcontent,basecontentcontroller#getrandomcontent",
-    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber241",
-    "BaseContentController with a filled database ",
     "test"
   ],
   [
@@ -216,14 +192,38 @@ window.esdocSearchIndex = [
     "test"
   ],
   [
-    "basecontentcontroller#updatecontent src/controllers/basecontentcontroller.js~basecontentcontroller#updatecontent,basecontentcontroller#updatecontent",
-    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber226",
+    "basecontentcontroller#getpage src/controllers/basecontentcontroller.js~basecontentcontroller#getpage,basecontentcontroller#getpage",
+    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber204",
     "BaseContentController with a filled database ",
     "test"
   ],
   [
     "basecontentcontroller#getpage src/controllers/basecontentcontroller.js~basecontentcontroller#getpage,basecontentcontroller#getpage",
     "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber213",
+    "BaseContentController with a filled database ",
+    "test"
+  ],
+  [
+    "basecontentcontroller#updatecontent src/controllers/basecontentcontroller.js~basecontentcontroller#updatecontent,basecontentcontroller#updatecontent",
+    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber226",
+    "BaseContentController with a filled database ",
+    "test"
+  ],
+  [
+    "basecontentcontroller#getcontent src/controllers/basecontentcontroller.js~basecontentcontroller#getcontent,basecontentcontroller#getcontent",
+    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber235",
+    "BaseContentController with a filled database ",
+    "test"
+  ],
+  [
+    "basecontentcontroller#getrandomcontent src/controllers/basecontentcontroller.js~basecontentcontroller#getrandomcontent,basecontentcontroller#getrandomcontent",
+    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber241",
+    "BaseContentController with a filled database ",
+    "test"
+  ],
+  [
+    "basecontentcontroller#deletecontent src/controllers/basecontentcontroller.js~basecontentcontroller#deletecontent,basecontentcontroller#deletecontent",
+    "test-file/test/controllers/BaseContentController.spec.js.html#lineNumber247",
     "BaseContentController with a filled database ",
     "test"
   ],
@@ -331,7 +331,7 @@ window.esdocSearchIndex = [
   ],
   [
     "contentservice#getpage src/controllers/contentservice.js~contentservice#getpage,contentservice#getpage",
-    "test-file/test/controllers/ContentService.spec.js.html#lineNumber100",
+    "test-file/test/controllers/ContentService.spec.js.html#lineNumber68",
     "ContentService should get a page of content items",
     "test"
   ],
@@ -343,13 +343,13 @@ window.esdocSearchIndex = [
   ],
   [
     "contentservice#getpage src/controllers/contentservice.js~contentservice#getpage,contentservice#getpage",
-    "test-file/test/controllers/ContentService.spec.js.html#lineNumber68",
+    "test-file/test/controllers/ContentService.spec.js.html#lineNumber90",
     "ContentService should get a page of content items",
     "test"
   ],
   [
     "contentservice#getpage src/controllers/contentservice.js~contentservice#getpage,contentservice#getpage",
-    "test-file/test/controllers/ContentService.spec.js.html#lineNumber90",
+    "test-file/test/controllers/ContentService.spec.js.html#lineNumber100",
     "ContentService should get a page of content items",
     "test"
   ],
@@ -583,13 +583,13 @@ window.esdocSearchIndex = [
   ],
   [
     "logger#createloggerinstance src/middleware/logger.js~logger#createloggerinstance,logger#createloggerinstance",
-    "test-file/test/middleware/Logger.spec.js.html#lineNumber156",
+    "test-file/test/middleware/Logger.spec.js.html#lineNumber150",
     "Logger should create a configured winston instance",
     "test"
   ],
   [
     "logger#createloggerinstance src/middleware/logger.js~logger#createloggerinstance,logger#createloggerinstance",
-    "test-file/test/middleware/Logger.spec.js.html#lineNumber150",
+    "test-file/test/middleware/Logger.spec.js.html#lineNumber156",
     "Logger should create a configured winston instance",
     "test"
   ],
@@ -769,13 +769,13 @@ window.esdocSearchIndex = [
   ],
   [
     "routes#setuproutes src/middleware/routes.js~routes#setuproutes,routes#setuproutes",
-    "test-file/test/middleware/Routes.spec.js.html#lineNumber205",
+    "test-file/test/middleware/Routes.spec.js.html#lineNumber185",
     "Routes should setup the Express instance",
     "test"
   ],
   [
     "routes#setuproutes src/middleware/routes.js~routes#setuproutes,routes#setuproutes",
-    "test-file/test/middleware/Routes.spec.js.html#lineNumber185",
+    "test-file/test/middleware/Routes.spec.js.html#lineNumber205",
     "Routes should setup the Express instance",
     "test"
   ],

@@ -167,8 +167,11 @@ export default class Database {
    * database.
    */
   connect(): Promise&lt;void&gt; {
+    if (process.env.MONGODB_URI) {
+      const uri = new URL(process.env.MONGODB_URI)
+      return mongoose.connect(uri.href)
+    }
     const uri = new URL(`mongodb://${this.username}:${this.password}@${this.hosts.join(&apos;,&apos;)}:${this.dbPort}/${this.database}`)
-
     return mongoose.connect(uri.href)
   }
 
